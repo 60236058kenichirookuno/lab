@@ -1,0 +1,91 @@
+﻿  sample.cpp
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(53,43): warning C4305: '初期化中': 'double' から '_Ty' へ切り詰めます。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(61,44): warning C4305: '初期化中': 'double' から '_Ty' へ切り詰めます。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(64,45): warning C4305: '初期化中': 'double' から '_Ty' へ切り詰めます。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(65,46): warning C4305: '初期化中': 'double' から '_Ty' へ切り詰めます。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(66,50): warning C4305: '初期化中': 'double' から '_Ty' へ切り詰めます。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(128,26): warning C4244: 'return': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(154,18): warning C4244: 'return': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(322,55): warning C4244: '=': 'lbfgsfloatval_t' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(323,55): warning C4244: '=': 'lbfgsfloatval_t' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(368,13): warning C4305: '+=': 'double' から 'GLfloat' へ切り詰めます。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(539,18): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(563,12): warning C4244: 'return': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(602,25): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(603,25): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(604,24): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(605,24): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(607,111): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(607,26): warning C4244: '=': 'GLfloat' から 'int' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(655,21): warning C4244: '=': 'lbfgsfloatval_t' から 'int' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(657,23): warning C4244: '=': 'lbfgsfloatval_t' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(658,23): warning C4244: '=': 'lbfgsfloatval_t' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(673,55): warning C4244: '=': 'lbfgsfloatval_t' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(674,55): warning C4244: '=': 'lbfgsfloatval_t' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(680,27): warning C4244: '=': 'double' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(681,27): warning C4244: '=': 'double' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(712,21): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(713,22): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(714,95): warning C4244: '=': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(727,30): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(734,30): warning C4244: '初期化中': 'double' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(748,69): warning C4244: '=': 'double' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(760,22): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\okuno\Documents\GITHUB\c++\danmen\sample\sample.cpp(763,43): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  sample.vcxproj -> C:\okuno\Documents\GITHUB\c++\danmen\x64\Debug\sample.exe
